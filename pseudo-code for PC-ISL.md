@@ -391,7 +391,7 @@ Algorithm End
 - Prevents overfitting and reduces computational cost
 
 ### 4. Validation-based Model Selection
-- Uses small validation set (10-shot) for early stopping during training
+- Uses small validation set for early stopping during training
 - Final evaluation on complete test set
 - Ensures fair comparison and prevents test set leakage
 
