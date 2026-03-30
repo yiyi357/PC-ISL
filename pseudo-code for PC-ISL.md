@@ -29,7 +29,7 @@ This document provides the complete pseudocode for the PC-ISL method.
 ## Complete Pseudocode
 
 ```
-Algorithm: PC-ISL with 10-Shot Valid Sampling
+Algorithm: PC-ISL
 
 Input:
     X_train: Original training dataset
